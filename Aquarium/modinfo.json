@@ -1,0 +1,14 @@
+{
+  "name": "Aquariums",
+  "author": "Aidanamite",
+  "description": "Adds a variety of aquariums to the game",
+  "version": "1.0.7",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": true,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/aquariums/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
